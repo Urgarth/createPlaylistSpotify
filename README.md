@@ -32,7 +32,7 @@ The `createPlaylistSpotify` script is designed to automate the process of creati
 
 3. Obtain your Spotify API credentials from the [Spotify Developer Dashboard](https://developer.spotify.com/dashboard/applications). Click "Create app" button, and fill the same:
    
-   ![Screenshot](images/your-screenshot.png)
+   ![Screenshot](images/SpotifyDashboard.png)
 
 5. Update the client_id, client_secret, and redirect_uri values in the script with your Spotify API credentials.
 
